@@ -1,4 +1,4 @@
-# Competências Comportamentais
+# AULA 1 - COMPETÊNCIAS COMPORTAMENTAIS
 
 Parte fundamental do nosso trabalho é a integração e desenvolvimento de competências comportamentais essenciais. Abaixo, destacamos algumas das competências que consideramos cruciais para o sucesso no ambiente de trabalho:
 
@@ -26,3 +26,37 @@ O relacionamento interpessoal refere-se à capacidade de interagir e se relacion
 
 O aprendizado contínuo é a disposição e o compromisso de adquirir novos conhecimentos, habilidades e competências ao longo da vida profissional. É essencial para se manter atualizado e competitivo em um campo como o desenvolvimento de software, onde as tecnologias e as melhores práticas estão sempre mudando.
 
+# AULA 2 - TENDÊNCIAS E INOVAÇÕES
+
+- Novas Tecnologias
+- Job Hopping
+- Geração nem-nem
+- Fortalecimento da cultura organizacional
+- Desenvolvimento Profissional - Feedback
+- Upskilling/Reskilling
+- Softskills
+- Longlife learning
+
+# AULA 3 - ANALISE PESSOAL
+
+- Zona de Conforto (sei tudo), Zona do medo (coisas que não conheço), Zona do Aprendizado (começo a me acostumar, aprendendo as coisas) e Zona de Crescimento.
+
+# AULA 4 - CONSTRUINDO MINHA CARREIRA
+
+- Cultura: tudo que constrói um determinado ambiente seja um país, cidade ou até mesmo uma família;
+- Valores: principios que norteiam a conduta humana na sociedade como disciplina, leitura, tempo livre, gratidão, respeito, liberdade e igualdade;
+- Ética: A índole, caráter, natureza, morada e abrigo. Analise de uma situação social de acordo com valores pessoais;
+- Propósito: qual meu objetivo, minhas motivações?
+- Valores -> Competencias -> Propósito
+
+# AULA 5 - SUGESTÃO DE LIVROS
+
+Nessa aula são recomendados os livros "Por que fazemos o que fazemos" e "Comece pelo porquê".
+
+# AULA 6 - GESTÃO DO CONHECIMENTO
+
+- Aprendizado contínuo, buscar ler mais e visando ser profissional T-Shapped (especialista na sua área e generalista no restante).
+- Competências (CHA) Conhecimento, Atitude e Habilidade.
+- Analise de competencias:
+
+![Processo de analise de competencias](processo.png)

@@ -60,3 +60,28 @@ Nessa aula são recomendados os livros "Por que fazemos o que fazemos" e "Comece
 - Analise de competencias:
 
 ![Processo de analise de competencias](processo.png)
+
+Exercicio: Verificar o que eu possuo do quadro abaixo e o que ainda devo desenvolver
+
+![Painel de competencias](Painel+de+Competências.jpeg)
+
+# AULA 7 - NETWORKING E RELACIONAMENTOS
+- Via de mão dupla: ajudo e sou ajudado;
+- Evitar ações sem reprocidade e sem empatia;
+- Redes Sociais como ponte de contato e conteúdo saúdavel;
+- Gestão de Relacionamentos: Envio de mensagens de agradecimentos, responder as pessoas, saudação para manter contato e pessoas com quem devo marcar um café para trocar ideias.
+
+# AULA 8 - GESTÃO DE MUDANÇAS
+- Análise SWOT (Strenght- Weakness - Oportunities - Threat)
+
+# AULA 9 - PAINEL DE IDEAÇÃO:
+- Montar plano de ação nos painéis padlet;
+
+# AULA 10 - LIVRO SOFTSKILLS
+Leitura de uma frase de cada capitulo do livro softskills.
+
+# AULA 11 - COMPORTAMENTOS/ATITUDES FUNDAMENTAIS
+- Integridade;
+- Determinação;
+- Aprendizado Contínuo;
+- Disciplina.

@@ -28,4 +28,4 @@
 - Aprender a dizer não, saber o que deve e o que não deve ser prioriodade na sua vida;
 - Não dê desculpas, busca avançar para aprender.
 
-
+![Mapa da Produtividade](MapaProdutividade.png)

@@ -71,7 +71,7 @@ Procrastinar é deixar as coisas para depois, o que nos leva a procrastinar são
 - Multitasking: ser produtivo não é fazer muitas coisas ao mesmo tempo. É melhor fazer a coisa certa, do jeito certo e no tempo certo. Fazer apenas multitasking se for inevitavel ou oportuno.
 - Boa memória: Cerebro processa melhor do que memoriza. Escrever em algum lugar a agenda de compromissos e responsabilidades.
 
-## Outra Técinas de produtividade
+## Outra Técnicas de produtividade
 - Agrupamento de tarefas: já vou na farmacia ai passa no mercado e etc;
 - Pomodoro: realização de tarefas com pequenos intervalos;
 - Mudar rotina: 

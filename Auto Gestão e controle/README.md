@@ -17,7 +17,7 @@
 - SMART: SPECIFIC, MENSURABLE, ACHIEVABLE, RELEVANT AND TIMEABLE
 - 5W2H: WHAT, WHO, WHEN, WHERE, WHY, HOW e HOW MUCH;
 - PDCA: Planejar, desenvolver, chegar e agir;
-- SWOR: Strenght, weakness, ,oportunities and Threat 
+- SWORT: Strenght, weakness, ,oportunities and Threat 
 
 # Módulo 4: Cuidando das ações
 - Tríade do tempo: circunstancial, importante e crucial.

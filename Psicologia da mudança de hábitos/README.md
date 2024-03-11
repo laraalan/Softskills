@@ -9,7 +9,7 @@ Em muitas situações falhamos por colocar a emoção frente a razão.
 - Elevar os padrões;
 - Mudar as suas crenças;
 - Ver o que funciona;
-- 21 dias para acostumar para mudanças;
+- OBS: 21 dias para acostumar para mudanças;
 
 ## Habitos
 - Loop infinito do habito é Gatilho, rotina e recompensa. Para um hábito perdurar você deve ter que ansear pelo habito. Achar um gatilho simples e definir uma recompensa.
